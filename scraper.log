@@ -1,0 +1,25 @@
+2024-06-06 14:20:30,683 - INFO - Scraped https://shayaliza.vercel.app successfully.
+2024-06-06 14:20:44,060 - INFO - Scraped https://shayalizablog.vercel.app successfully.
+2024-06-10 21:37:07,028 - INFO - Scraped https://shayaliza.vercel.app successfully.
+2024-06-10 21:39:14,157 - ERROR - Failed to get the soup for https://www.amazon.in/s?bbn=81107433031&rh=n%3A81107433031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=a0435327-4b7c-497d-af97-be90550972c8&pd_rd_w=6uQYP&pd_rd_wg=pzJj0&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=3JMMYEJ320CFSKCRYAY6&ref=pd_hp_d_atf_unk: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?bbn=81107433031&rh=n%3A81107433031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=a0435327-4b7c-497d-af97-be90550972c8&pd_rd_w=6uQYP&pd_rd_wg=pzJj0&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=3JMMYEJ320CFSKCRYAY6&ref=pd_hp_d_atf_unk
+2024-06-10 21:40:48,350 - ERROR - Failed to get the soup for https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen
+2024-06-10 21:40:52,492 - ERROR - Failed to get the soup for https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen
+2024-06-10 21:40:53,936 - ERROR - Failed to get the soup for https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen
+2024-06-10 21:40:54,309 - ERROR - Failed to get the soup for https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen
+2024-06-10 21:40:54,672 - ERROR - Failed to get the soup for https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s/ref=mega_sv_s23_3_1_1_1?rh=i%3Akitchen%2Cn%3A1380027031&ie=UTF8&lo=kitchen
+2024-06-10 21:42:52,719 - INFO - Scraped https://en.wikipedia.org/wiki/History_of_India successfully.
+2024-06-10 21:43:22,295 - INFO - Scraped https://en.wikipedia.org/wiki/History_of_India successfully.
+2024-06-15 14:30:32,135 - INFO - Scraped https://www.iitp.ac.in/ successfully.
+2024-06-15 22:54:41,888 - INFO - Scraped https://en.wikipedia.org/wiki/History_of_India successfully.
+2024-06-16 23:39:53,997 - INFO - Scraped https://www.nitp.ac.in/ successfully.
+2024-06-16 23:39:54,098 - INFO - Scraped https://www.nitp.ac.in/ successfully.
+2024-06-27 08:02:46,659 - INFO - Scraped https://hizmnw2dtqeu4zbvzwvioa.on.drv.tw/www.insightforge.com/home.html successfully.
+2024-06-27 08:02:46,661 - INFO - Scraped https://hizmnw2dtqeu4zbvzwvioa.on.drv.tw/www.insightforge.com/home.html successfully.
+2024-06-27 08:04:30,416 - INFO - Scraped https://en.wikipedia.org/wiki/IIT_Patna successfully.
+2024-06-27 19:38:06,481 - INFO - Scraped https://groww.in/stocks/user/explore successfully.
+2024-06-27 19:41:25,488 - INFO - Scraped https://trade.share.market/scrip?scripId=EJTMFI successfully.
+2024-06-27 23:04:52,029 - INFO - Scraped https://trendlyne.com/portfolio/bulk-block-deals/597533/icici-group-portfolio/ successfully.
+2024-06-28 22:28:21,980 - INFO - Scraped https://www.primevideo.com/storefront/ref=atv_dp_tv_c_9zZ8D2_hm_hom successfully.
+2024-06-28 22:30:11,027 - INFO - Scraped https://www.amazon.in/One94Store-LED-Tree-Adjustable-Decoration/dp/B0BN5VYQGB/?_encoding=UTF8&pd_rd_w=xOeCo&content-id=amzn1.sym.0e422f8d-6775-4974-b65c-0f7a8c71c444&pf_rd_p=0e successfully.
+2024-06-29 08:41:28,714 - INFO - Scraped https://www.moneycontrol.com/news/ successfully.
+2024-06-29 09:20:02,202 - ERROR - Failed to get the soup for https://www.amazon.in/s?k=football&crid=10TN7DM01NZGC&sprefix=football%2Caps%2C913&ref=nb_sb_noss_1: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=football&crid=10TN7DM01NZGC&sprefix=football%2Caps%2C913&ref=nb_sb_noss_1
